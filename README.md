@@ -1,2 +1,1 @@
-# santhikrishnan-pavithran
-Personal blog — sensor characterization and robotics sensing, documented properly 
+Source for my blog: https://santhikrishnan-pavithran.github.io
